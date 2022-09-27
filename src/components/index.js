@@ -8,6 +8,7 @@ import Stats from './Stats.jsx';
 import Footer from './Footer.jsx';
 import Testimonials from './Testimonials.jsx';
 import Hero from './Hero.jsx';
+import GetStarted from './GetStarted.jsx';
 
 export {
   Navbar,
@@ -20,4 +21,5 @@ export {
   Footer,
   Testimonials,
   Hero,
+  GetStarted,
 };
